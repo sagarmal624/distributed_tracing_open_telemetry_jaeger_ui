@@ -1,0 +1,6 @@
+com/javastaff/tracing/opentelemetryb/TestEntity.class
+com/javastaff/tracing/opentelemetryb/AppConfig.class
+com/javastaff/tracing/opentelemetryb/TestEntityRepository.class
+com/javastaff/tracing/opentelemetryb/BStarter.class
+com/javastaff/tracing/opentelemetryb/AppBController.class
+com/javastaff/tracing/opentelemetryb/BService.class

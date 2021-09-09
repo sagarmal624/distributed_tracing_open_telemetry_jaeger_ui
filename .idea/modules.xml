@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/opentelemetry-app-a/opentelemetry-app-a.iml" filepath="$PROJECT_DIR$/opentelemetry-app-a/opentelemetry-app-a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opentelemetry-app-b/opentelemetry-app-b.iml" filepath="$PROJECT_DIR$/opentelemetry-app-b/opentelemetry-app-b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opentracing-app-a/opentracing-app-a.iml" filepath="$PROJECT_DIR$/opentracing-app-a/opentracing-app-a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opentracing-app-b/opentracing-app-b.iml" filepath="$PROJECT_DIR$/opentracing-app-b/opentracing-app-b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tracing.iml" filepath="$PROJECT_DIR$/.idea/tracing.iml" />
+    </modules>
+  </component>
+</project>

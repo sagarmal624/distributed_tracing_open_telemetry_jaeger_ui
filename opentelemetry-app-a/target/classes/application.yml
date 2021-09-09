@@ -1,0 +1,26 @@
+io:
+  opentelemetry:
+    level: FINE
+    sdk:
+      trace:
+        export:
+          BatchSpanProcessor:
+            level: 'OFF'
+java:
+  util:
+    logging:
+      ConsoleHandler:
+        level: FINE
+server:
+  port: 9081
+
+logging:
+  pattern:
+    console: '%d{yyyy-MM-dd HH:mm:ss} - %logger{36} - %msg traceID=%X{traceId} %n'
+  level:
+    org:
+      springframework:
+        web:
+          filter:
+            CommonsRequestLoggingFilter: DEBUG
+

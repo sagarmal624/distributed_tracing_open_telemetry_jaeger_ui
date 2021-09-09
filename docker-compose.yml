@@ -12,16 +12,6 @@ services:
       - 14250:14250
       - 9411:9411
 
-  opentracing-app-b:
-     build: opentracing-app-b
-     ports:
-      - 8081:8081
-
-  opentracing-app-a:
-     build: opentracing-app-a
-     ports:
-      - 8080:8080
-
   opentelemetry-app-b:
      build: opentelemetry-app-b
      ports:
