@@ -3,42 +3,22 @@
   <component name="issues">
     <option name="index">
       <map>
-        <entry key="$PROJECT_DIR$/docker-compose.yml">
+        <entry key="$PROJECT_DIR$/../../Demo/MongoDbPoc/pom.xml">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/k8s.yml">
+        <entry key="$PROJECT_DIR$/../../Demo/MongoDbPoc/src/main/java/com/example/mongodbpoc/MongoDbPocApplication.java">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/opentelemetry-app-a/Dockerfile">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/opentelemetry-app-a/pom.xml">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/opentelemetry-app-a/src/main/java/com/javastaff/tracing/opentelemetrya/AppAController.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/opentelemetry-app-a/src/main/java/com/javastaff/tracing/opentelemetrya/LogConfig.java">
+        <entry key="$PROJECT_DIR$/../../Demo/MongoDbPoc/src/main/resources/application.properties">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/opentelemetry-app-a/src/main/resources/application.yml">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/opentracing-app-a/src/main/java/com/javastaff/tracing/opentracinga/AppAController.java">
           <value>
             <set />
           </value>
